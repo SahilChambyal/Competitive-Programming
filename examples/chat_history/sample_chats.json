@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chat_001",
+    "query": "What are the office hours?",
+    "response": "Our regular office hours are Monday to Friday from 9:00 AM to 5:00 PM, and Saturday from 9:00 AM to 1:00 PM. We are closed on Sundays. For emergencies, you can contact our emergency hotline at +1-800-ORG-HELP.",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "user_id": "user001",
+    "category": "general_info"
+  },
+  {
+    "id": "chat_002",
+    "query": "How do I apply for leave?",
+    "response": "To apply for leave, follow these steps: 1) Fill out Form-123 (Leave Application Form), 2) Get supervisor approval, 3) Submit to HR department at least 7 days in advance, 4) You'll receive confirmation via email. Remember to attach medical certificates for sick leave or supporting documents for emergency leave.",
+    "timestamp": "2024-01-15T11:45:00Z",
+    "user_id": "user002",
+    "category": "leave_application"
+  },
+  {
+    "id": "chat_003",
+    "query": "What is the minimum attendance required?",
+    "response": "The minimum attendance requirement is 75% to be eligible for examinations. Medical leave with proper documentation doesn't count against your attendance. Please note that arriving more than 15 minutes late counts as half an absence.",
+    "timestamp": "2024-01-15T14:20:00Z",
+    "user_id": "user003",
+    "category": "academic_policy"
+  },
+  {
+    "id": "chat_004",
+    "query": "How can I reset my password?",
+    "response": "To reset your password, contact the IT help desk at extension 1234 or email itsupport@organization.com. You'll need to provide valid ID for verification. The help desk is available Monday to Friday from 8:00 AM to 6:00 PM.",
+    "timestamp": "2024-01-16T09:15:00Z",
+    "user_id": "user004",
+    "category": "it_support"
+  },
+  {
+    "id": "chat_005",
+    "query": "What documents do I need for transcript request?",
+    "response": "For transcript requests, you need to: 1) Fill out Document Request Form (Form-456), 2) Pay the applicable fee of $25 for official transcripts, 3) Processing takes 3-5 business days. If you need expedited processing, there's an additional $10 fee.",
+    "timestamp": "2024-01-16T13:30:00Z",
+    "user_id": "user005",
+    "category": "document_request"
+  },
+  {
+    "id": "chat_006",
+    "query": "What is the grading system?",
+    "response": "Our grading system is as follows: A+ (90-100%), A (80-89%), B+ (70-79%), B (60-69%), C (50-59%), and F (Below 50% - Fail). This system applies to all academic evaluations and examinations.",
+    "timestamp": "2024-01-16T15:45:00Z",
+    "user_id": "user006",
+    "category": "academic_policy"
+  },
+  {
+    "id": "chat_007",
+    "query": "When should I arrive for exams?",
+    "response": "You must arrive 30 minutes before the exam time. Please bring a valid ID as it's required for entry. Remember that no electronic devices are allowed in the examination room, and any form of cheating will result in immediate disqualification.",
+    "timestamp": "2024-01-17T08:20:00Z",
+    "user_id": "user007",
+    "category": "examination_rules"
+  },
+  {
+    "id": "chat_008",
+    "query": "How many days of annual leave do I get?",
+    "response": "You are entitled to up to 21 days of annual leave per year. Additionally, you can take up to 10 days of sick leave (with medical certificate) and up to 3 days of emergency leave for family emergencies per year.",
+    "timestamp": "2024-01-17T11:10:00Z",
+    "user_id": "user008",
+    "category": "leave_policy"
+  },
+  {
+    "id": "chat_009",
+    "query": "What's the IT help desk contact?",
+    "response": "You can contact the IT help desk at extension 1234 or email itsupport@organization.com. They're available Monday to Friday from 8:00 AM to 6:00 PM. For weekend support, they only handle emergency cases. You can also access the online portal at https://helpdesk.organization.com.",
+    "timestamp": "2024-01-17T14:55:00Z",
+    "user_id": "user009",
+    "category": "it_support"
+  },
+  {
+    "id": "chat_010",
+    "query": "How much does an employment certificate cost?",
+    "response": "An employment certificate costs $15. If you need expedited processing, there's an additional $10 fee. You need to fill out Document Request Form (Form-456) and the processing time is normally 3-5 business days.",
+    "timestamp": "2024-01-18T10:25:00Z",
+    "user_id": "user010",
+    "category": "document_request"
+  }
+]
